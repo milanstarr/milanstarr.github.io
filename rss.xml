@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Such a Crunchy Lady</title>
+        <link>https://milanstarr.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.69.2 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>milanstarrg@gmail.com (Milan Granillo)</managingEditor>
+        
+        
+            <webMaster>milanstarrg@gmail.com (Milan Granillo)</webMaster>
+        
+        
+        <lastBuildDate>Tue, 26 May 2020 11:39:31 -0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://milanstarr.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>

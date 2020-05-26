@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Such a Crunchy Lady</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-05-26T11:39:31-04:00</updated>
+    <id>https://milanstarr.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://milanstarr.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://milanstarr.github.io/atom.xml" />
+    <author>
+            <name>Milan Granillo</name>
+            <uri>https://milanstarr.github.io/</uri>
+            
+                <email>milanstarrg@gmail.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.69.2">Hugo</generator>
+</feed>
